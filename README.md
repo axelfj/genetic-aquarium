@@ -1,7 +1,20 @@
-# IISEM-SSN-Pecera
+# Genetic Aquarium
 
-Sistema de Simulación de un sistema alimenticio basado en una jerarquía de peces.
+Ocean simulator built by three TEC (Costa Rica) students.
 
-# Andrés Brenes Maleaño
-# Axel Fernández Jiménez
-# Bryand Flores Medina
+# Credits
+
+Andrés Brenes Maleaño
+
+Axel Fernández Jiménez
+
+Bryand Flores Medina
+
+# Setup
+
+Go and download last version of Processing:
+
+https://processing.org/download/
+
+Then you open the program, clicking a file then the IDE starts up, finally you hit play and the screen appears.
+
